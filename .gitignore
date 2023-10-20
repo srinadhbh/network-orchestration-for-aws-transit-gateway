@@ -1,7 +1,5 @@
 # Distribution folders
-global-s3-assets
-regional-s3-assets
-open-source
+
 
 # Generated ouputs
 console-manifest.json
