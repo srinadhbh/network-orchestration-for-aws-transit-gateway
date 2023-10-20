@@ -10,7 +10,6 @@ dist
 coverage.xml
 *pycache*
 npm-debug.log
-*.zip
 *.xml
 reports
 *.pyc
