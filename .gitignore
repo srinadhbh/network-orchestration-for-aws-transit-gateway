@@ -1,7 +1,5 @@
 # Distribution folders
-global-s3-assets
-regional-s3-assets
-open-source
+
 
 # Generated ouputs
 console-manifest.json
@@ -10,7 +8,7 @@ dist
 coverage.xml
 *pycache*
 npm-debug.log
-*.zip
+
 *.xml
 reports
 *.pyc
