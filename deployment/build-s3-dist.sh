@@ -54,7 +54,7 @@ find . -type f -name ".pytest_cache" -delete
 find . -type f -name ".coverage" -delete
 
 headline "[Init] Initiating virtual environment"
-python3 -m venv .venv --upgrade-deps
+python3.11 -m venv .venv --upgrade-deps
 source .venv/bin/activate
 pip3 install -r requirements.txt
 
